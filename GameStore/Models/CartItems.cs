@@ -1,6 +1,6 @@
 ﻿namespace GameStore.Models
 {
-    public class CartItem
+    public class CartItems
     {
         public int CartId { get; set; }
         public int ProductId { get; set; }
